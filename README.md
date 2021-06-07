@@ -34,7 +34,7 @@ Every use case is inclusive of generating random objects to return it to the use
 <img width="482" alt="risks" src="https://user-images.githubusercontent.com/82107035/121039125-baf53f80-c7a8-11eb-8956-c4f01c3f8494.PNG">
 
 ###  Project Timeline
-<img width="513" alt="timeline" src="https://user-images.githubusercontent.com/82107035/117551158-39d94a00-b03c-11eb-8de2-68038de9ec16.PNG">
+<img width="545" alt="project plan" src="https://user-images.githubusercontent.com/82107035/121048546-d19e9500-c7ae-11eb-8d45-8bdc40e9c7aa.PNG">
 
 
 ## Databases
