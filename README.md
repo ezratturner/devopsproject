@@ -25,9 +25,9 @@ create a functional Create, Read, Update, Delete (CRUD) music playlist applicati
 This section will discuss the timeline, trello board, tasks and risks for the project.
 
 ###  Trello Board
-<img width="960" alt="trelloboard" src="https://user-images.githubusercontent.com/82107035/117551782-d05b3a80-b03f-11eb-8779-d9acef36adae.PNG">
+<img width="959" alt="trello board" src="https://user-images.githubusercontent.com/82107035/121024165-e0c81780-c79b-11eb-9215-f2a154dd0dcd.PNG">
 
-Every use case is inclusive of playlists and songs.
+Every use case is inclusive of generating random objects to return it to the user.
 
 <img width="305" alt="use case" src="https://user-images.githubusercontent.com/82107035/117555019-782e3380-b053-11eb-8ae7-62f8b42e1fde.PNG">
 
