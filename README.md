@@ -17,9 +17,7 @@ Fortune Teller Application
  - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-The purpose of this project is to
-
-create a functional Create, Read, Update, Delete (CRUD) music playlist application by using appropriate tools, technologies and methodologies. Inclusive of effective project management practices, utilising a relational MySQL database with two tables in it, C# and ASP.net full-stack development, testing functions and using Azure DevOps to create a pipeline to deploy the application to an app service.
+The purpose of this project is to create a functional Create, Read, Update, Delete (CRUD) fortune teller application with four services by using appropriate tools, technologies and methodologies. Inclusive of effective project management practices, utilising a MySQL database, C# and ASP.net for the full-stack development, testing functions and using Azure DevOps to create a pipeline to deploy the application to an app service.
 
 ## Project Management
 This section will discuss the timeline, trello board, tasks and risks for the project.
