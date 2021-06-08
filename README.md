@@ -8,7 +8,7 @@ Fortune Teller Application
   * [Risk Assessment Matrix](#risk-assessment-matrix)
   * [Project Timeline](#project-timeline)
 - [Databases](#databases)
-- [Development](#development)
+- [Development of Services](#development-of-services)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Further Analysis](#further-analysis)
@@ -37,7 +37,7 @@ Every use case is inclusive of generating random objects to return it to the use
 <img width="543" alt="project plan" src="https://user-images.githubusercontent.com/82107035/121048908-25a97980-c7af-11eb-841e-26a31affe263.PNG">
 
 
-## Databases
+## MySQL Database
 Two tables – artist, album
 ArtistID and songID are primary keys
 Created two tables within a database to persistently store data for the project.
@@ -60,13 +60,19 @@ View everything within the songs table.
 <img width="689" alt="songstable" src="https://user-images.githubusercontent.com/82107035/117586663-6f039c00-b111-11eb-8929-645284b058f1.PNG">
 
 
-## Development
-The development of the application was done using C# and ASP.Net. Below are screenshots of the final application.
+## Development of Services
+The development of the application was done using C# for the backened and ASP.Net for the frontend. Below are screenshots of the final application.
 
 <img width="685" alt="viewplaylist" src="https://user-images.githubusercontent.com/82107035/117554638-e1f90e00-b050-11eb-9c9f-ed766a4a59bf.PNG">
 
 <img width="722" alt="viewsongs" src="https://user-images.githubusercontent.com/82107035/117554660-fb9a5580-b050-11eb-8edc-207d1ab7403c.PNG">
+Service 1 - HTML
 
+Service 2 - Pre-defined rules
+
+Service 3 - Randomised letter
+
+Service 4 - Randomised number
 
 ## Testing
 <img width="213" alt="tests" src="https://user-images.githubusercontent.com/82107035/117554760-9d21a700-b051-11eb-81ab-92e548e4586d.PNG">
